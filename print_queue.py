@@ -142,4 +142,4 @@ def choose_status(flag: bool):
 
 
 get_input()     # Calling input method.
-choose_status(input_parameters[-1])     # Take Getting the result based on the entered data
+choose_status(input_parameters[-1])     # Getting the result based on the entered data
